@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dte emision="11" tipo="factura" folio="3">
+    <emisor rut="11.11-6" razonSocial="Company A" />
+    <receptor rut="22.22-1" razonSocial="Company B" />
+    <items>
+        <detalle monto="11" iva="11">Product D</detalle>
+        <detalle monto="8000" iva="190">Product E</detalle>
+    </items>
+</dte>
